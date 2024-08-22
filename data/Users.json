@@ -1,0 +1,34 @@
+[
+    {
+        "username": "M. FAADHIL HUSSAENI",
+        "email": "HusenTampan@mail.com",
+        "password": "HusenYaHusen",
+        "role": "Admin",
+        "phoneNumber": "08123322288811",
+        "address": "padang"
+    },
+    {
+        "username": "Nurdin Reiski",
+        "email": "dindin@gmail.com",
+        "password": "nurdin123",
+        "role": "Staff",
+        "phoneNumber": "+621299382828",
+        "address": "kota Tangerang"
+    },
+    {
+       "username": "Dicks Dicks to Dicks",
+        "email": "DickyDicks@gmail.com",
+        "password": "Dickys123",
+        "role": "Staff",
+        "phoneNumber": "+628127338822",
+        "address": "tengiri"
+    },
+    {
+        "username": "Via Alfiansih",
+        "email": "Ouwapaitu@mail.com",
+        "password": "viashit123",
+        "role": "Admin",
+        "phoneNumber": "0812332228755",
+        "address": "padang"
+    }
+]

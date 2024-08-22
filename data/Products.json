@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Asus Tuf Gaming A15 2022",
+        "description":"laptop Asus ini sudah di tenagain Gpu rtx 3050 dan cpu Ryzen 7 4800h",
+        "price":"12000000",
+        "stok":"5",
+        "imgUrl":"https://dlcdnwebimgs.asus.com/gain/3e19323f-de18-4bd0-95cf-471cc3940594/",
+        "categoryId":"1",
+        "authorId":"1"
+    },
+    {
+        "name":"lenovo Legion Go",
+        "description":"Handheld portabel yang bisa di bawah kemana-mana sudah di tenagain dengan amd zen gen 2",
+        "price":"9000000",
+        "stok":"16",
+        "imgUrl":"https://p2-ofp.static.pub/ShareResource/na/products/legion/560x450/lenovo-legion-go-front-community-award.png",
+        "categoryId":"2",
+        "authorId":"2"
+    },
+    {
+        "name":"Gamepad FLYDIGI Apex 4 Assassins Creed Dynasty (Limited Edition)",
+        "description":"Gamepad yang collab sama game assassin creed dan rasakan sensasi saat bermain",
+        "price":"750000",
+        "stok":"16",
+        "imgUrl":"https://m.media-amazon.com/images/I/71b5GAv7SnL._SL1500_.jpg",
+        "categoryId":"4",
+        "authorId":"4"
+    },
+    {
+        "name":"The legend Of Zelda Tears Of The Kingdom",
+        "description":"lanjutan petualangan link dari breath of the wild dan rasakan serunya petualangan link",
+        "price":"450000",
+        "stok":"16",
+        "imgUrl":"www.apasih.com",
+        "categoryId":"5",
+        "authorId":"1"
+    },
+    {
+        "name":"ZTE nubia Red Magic 9 Pro",
+        "description":"Hp dengan spec gaming dan siap melibas dengan spek rata kanan di tenagain oleh Snapdragon 8 gen 3",
+        "price":"10000000",
+        "stok":"18",
+        "imgUrl":"https://media.suara.com/pictures/653x366/2023/11/25/51912-nubia-red-magic-9-pro-dan-9-pro-plus.webp",
+        "categoryId":"3",
+        "authorId":"3"
+    }
+]
